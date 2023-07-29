@@ -28,7 +28,8 @@
  
  - <i>with Golang ,kubernets ,etcd ,distributedSysterm and many others.</i>
    
- - 🔭 SpaceX FanBoi, die for space😼
+ - 🔭 fond of fantastic fiction, sfc👽
+ - 🐠 into platform game like celeste and hollow knight😼
 
  - 🛸 Into High Energy Physics and Astrophysics, i love shooting stars too.
  
