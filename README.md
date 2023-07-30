@@ -26,9 +26,9 @@
 
  - 🥀 Learning rust & C++
  
- - <i>with Golang ,kubernets ,etcd ,distributedSysterm and many others.</i>
+ - <i>with Golang ，docker,kubernets ,etcd ,distributedSystem and many others.</i>
    
- - 🔭 fond of fantastic fiction, sfc👽
+ - 🔭 fond of fantastic fiction, and sfc👽
  - 🐠 into platform game like celeste and hollow knight😼
 
  - 🛸 Into High Energy Physics and Astrophysics, i love shooting stars too.
