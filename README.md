@@ -21,10 +21,10 @@
 <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 <p align="center">
-  <h3> I'm 20 years old Backend developer from China.</h3>
+  <h3> I'm 21 years old Backend developer from China.</h3>
 </p>
 
- - 🥀 Learning rust & C++
+ - 🥀 Learning rust & C++ & Java
  
  - <i>with Golang ，docker,kubernets ,etcd ,distributedSystem and many others.</i>
    
