@@ -9,7 +9,7 @@
 
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👦 dsm | 💻 CloudNative & Backend| 🛸 China Hangzhou <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👦 dsm | 💻 Game Client & WEB Backend | 🛸 China Hangzhou <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
  
@@ -21,19 +21,19 @@
 <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 <p align="center">
-  <h3> I'm 21 years old Backend developer from China.</h3>
+  <h3> I'm 22 years old Backend developer from China.</h3>
 </p>
 
- - 🥀 Learning rust & C++ & Java
+ - 🥀 Learning rust & C++ & Erlang
  
- - <i>with Golang ，docker,kubernets ,etcd ,distributedSystem and many others.</i>
+ - <i>With Golang , Virtualization , DistributedSystem and many others.</i>
    
- - 🔭 fond of fantastic fiction, and sfc👽
- - 🐠 into platform game like celeste and hollow knight😼
+ - 🔭 Fond of fantastic fiction, and sfc👽
+ - 🐠 Into platform game like celeste and hollow knight😼
 
- - 🛸 Into High Energy Physics and Astrophysics, i love shooting stars too.
+ - 🛸 Into High Energy Physics and Astrophysics, I love shooting stars too.
  
- - I do backend and a bit of writing :heart:
+ - I do backend&game and a bit of writing :heart:
  
  - All About living life at its best.
  
